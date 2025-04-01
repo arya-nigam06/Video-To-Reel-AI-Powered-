@@ -1,1 +1,2 @@
-I have completed milestone 1,2 and 3 till now. -**Arya Nigam**
+Developed an AI-powered tool that extracts key video segments using sentiment analysis and NLP.
+Utilized Python, PostgreSQL, and ChatGPT tools for intelligent content summarization.
